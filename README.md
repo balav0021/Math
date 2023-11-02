@@ -1,6 +1,7 @@
 # Project Title
 
-[Include your project title or name here]
+USING REGRESSION TOOLS TO ANALYSE COVID 19 DATA![image](https://github.com/balav0021/Math/assets/147550929/b55a092c-a82a-4bfe-bb39-2fcc817befee)
+
 
 ## Description
 
