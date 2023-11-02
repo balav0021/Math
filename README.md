@@ -37,14 +37,19 @@ By conducting a rigorous analysis, we aim to shed light on the complex relations
 
 ## Linear Regression
 
+![Linear_Regression_Age](Pictures/LRage.jpeg)
 
+![Linear Regression_Poverty](Pictures/LRpoverty.jpeg)
 
 ## T-Tests
 
-[Explain how others can contribute to your project, whether through code, bug reports, or other means.]
+![TTests](Pictures/Ttests.jpeg)
 
 ## Conclusion
 
-[Include information about the project's license. You can use the standard open-source licenses like MIT, GPL, or choose your own.]
+T-Tests:  Performed two independent t-tests to compare the average ages of individuals in two groups: those with a poverty rate below a specific threshold and those with a poverty rate above it. Our t-test results revealed a statistically significant difference in average ages between these groups, suggesting that age may be a significant factor influencing COVID-19-related deaths.
+
+Linear Regression with Interaction Effects:  We conducted a multiple linear regression analysis to predict the number of COVID-19-related deaths. The model included 'AGE,' 'POVERTY,' and an interaction term, 'AGE_POVERTY_INTERACTION,' to account for potential combined effects of age and poverty on the outcome. The regression analysis indicated that these variables collectively explain a significant portion of the variance in COVID-19 deaths.
+
 
 
