@@ -41,7 +41,7 @@ By conducting a rigorous analysis, we aim to shed light on the complex relations
 
 ![Linear Regression_Poverty](Pictures/LRpoverty.jpeg)
 
-![OLS_Regression_Results](Pictures/Modelsummary.jpeg)
+![OLS_Regression_Results](Modelsummary.jpg)
 
 ## T-Tests
 
